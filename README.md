@@ -39,7 +39,7 @@ This should only be used as an exploration or educational project.
 * The URL of the deployed application.
 
 * The URL of the GitHub repository.
- git@github.com:Tariqstanikzai/Secure-Password-Generator.git 
+ https://github.com/Tariqstanikzai/Simple-Math-Quiz-Dev/tree/main
 
 ## Contact
  * @tariq_stanikzai
