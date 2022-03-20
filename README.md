@@ -37,6 +37,7 @@ This should only be used as an exploration or educational project.
 ## Links:
 
 * The URL of the deployed application.
+ https://tariqstanikzai.github.io/Simple-Math-Quiz-Dev/
 
 * The URL of the GitHub repository.
  https://github.com/Tariqstanikzai/Simple-Math-Quiz-Dev/tree/main
